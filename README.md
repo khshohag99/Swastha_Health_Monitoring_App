@@ -11,3 +11,6 @@ Sleep Tracking: Understanding the importance of quality sleep, our app tracks yo
 Weight Management: Swastha tackles the issue of obesity with a suite of weight management tools. It calculates and displays your Body Mass Index (BMI), offers calorie charts, suggests healthy eating habits, provides meal plans, and much more to assist you in your weight loss journey.
 
 Health Information Hub: Swastha serves as a centralized repository for all your health information. It keeps your health data organized and easily accessible, making you more health-conscious and informed about your well-being.
+
+![image](https://github.com/khshohag99/Swastha_Health_Monitoring_App/assets/115762775/f431ede2-4b0b-458b-b80c-74738af9c0ee)
+
