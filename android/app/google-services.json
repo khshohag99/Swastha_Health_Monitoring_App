@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "726654888168",
+    "project_id": "swasthaheath",
+    "storage_bucket": "swasthaheath.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726654888168:android:13a9eeebae328bd85f815d",
+        "android_client_info": {
+          "package_name": "com.khondoker.swastha_health_monitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726654888168-n3m2fob682oi6b5rh4l3i3kc6bin3sem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgY97M2auAEBb3J-ZU0UcWfnjvgHAbgrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726654888168-n3m2fob682oi6b5rh4l3i3kc6bin3sem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
