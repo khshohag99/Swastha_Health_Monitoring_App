@@ -12,5 +12,12 @@ Weight Management: Swastha tackles the issue of obesity with a suite of weight m
 
 Health Information Hub: Swastha serves as a centralized repository for all your health information. It keeps your health data organized and easily accessible, making you more health-conscious and informed about your well-being.
 
+
 ![image](https://github.com/khshohag99/Swastha_Health_Monitoring_App/assets/115762775/f431ede2-4b0b-458b-b80c-74738af9c0ee)
+
+
+
+![image](https://github.com/khshohag99/Swastha_Health_Monitoring_App/assets/115762775/b20d2956-2a51-4539-b614-532695954233)
+
+![image](https://github.com/khshohag99/Swastha_Health_Monitoring_App/assets/115762775/5b416638-4c03-4dc7-bb9e-4d57156cf12d)
 
